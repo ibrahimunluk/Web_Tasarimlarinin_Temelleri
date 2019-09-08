@@ -1,1 +1,1 @@
-# Web_Tasarimlarinin_Temelleri
+# Web Tasarımların Temelleri:
